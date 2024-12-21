@@ -1,0 +1,7 @@
+name: weather
+description: Pushing weather metrics to cloudwatch
+runtime: nodejs
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: typescript

@@ -1,0 +1,6 @@
+node_modules
+*zip
+layer-requests
+weather/src/**
+build
+!weather/src/lambda.py
